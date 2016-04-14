@@ -1,0 +1,6 @@
+{
+  "name": "Php Ago()",
+  "tagline": "Convert the difference between a given timestamp and the present moment to human language.",
+  "body": "# PHP Ago()\r\n<img src=\"https://raw.githubusercontent.com/jochemstoel/php-ago/master/ago.jpg\">\r\nConvert the difference between a given timestamp and the present moment to human language. This could be used for a newsfeed like Facebook to show when something is posted.\r\n\r\n## Example\r\n```php\r\ninclude 'ago.php';\r\n\r\necho ago(1456377246); // 14 minutes ago.\r\n``` \r\n\r\n## Languages\r\nCurrently I have included the following languages:\r\n* English\r\n* Dutch\r\n\r\nEditing this file to meet your personal requirements should be really simple.\r\n\r\n## ToDo\r\nI will at some point include a version for every language. Feel free to submit your own to make the world a better place for humans",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
